@@ -1,4 +1,4 @@
-![Imagen](MrOlivo/MrOlivo/wKRBQKa-min.png)
+![Imagen](https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-min.png)
 
 ### Whats up vicietas?, MrOlivo here👋
 
