@@ -1,4 +1,4 @@
-![Imagen](wKRBQKa-min.png)
+![Imagen](MrOlivo/MrOlivo/wKRBQKa-min.png)
 
 ### Whats up vicietas?, MrOlivo here👋
 
