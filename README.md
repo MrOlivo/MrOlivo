@@ -1,3 +1,5 @@
+![Imagen](wKRBQKa-min.png)
+
 ### Whats up vicietas?, MrOlivo here👋
 
 **MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
