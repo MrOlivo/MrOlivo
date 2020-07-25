@@ -17,17 +17,31 @@ Here are some ideas to get you started:
 
 ```javascript
 const Me = {
-  pronouns: 'he',
-  code: [ 'C#', 'Java', 'Javascript', 'HTML', 'CSS', 'C++', 'PSeInt' ],
-  frameworks: {
-    css: [ 'Bootstrap 4' ]
-  },
-  tools: {
-    development: [ 'VS Code', 'Postman', 'MySQLWorkbench', 'MongoDB Compass' ],
-    design: [ 'Adobe Photoshop', 'Adobe XD', 'Figma' ]
-  },
-  challenge: "I'm learning to create web applications with 'Node' and 'Express"
+    programmingLanguages: [
+        'C#',
+        'Java',
+        'Javascript',
+        'HTML',
+        'CSS',
+        'C++',
+        'PSeInt',
+    ],
+    frameworks: {
+        css: ['Bootstrap 4'],
+    },
+    tools: {
+        development: [
+            'VS Code',
+            'Postman',
+            'MySQLWorkbench',
+            'MongoDB Compass',
+        ],
+        design: ['Adobe Photoshop', 'Adobe XD', 'Figma'],
+    },
+    challenge:
+        "I'm learning to create web applications with 'Node' and 'Express",
 }
+
 ```
 [![GitHub MrOlivo followers](https://img.shields.io/github/followers/MrOlivo?label=followers&style=for-the-badge&logo=github)](https://github.com/MrOlivo)
 
