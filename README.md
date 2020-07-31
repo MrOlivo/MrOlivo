@@ -4,7 +4,7 @@
 
 **MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Quick overview:
 
 - 🔭 I’m currently working on a Node.js & Express.js based Web site
 - 🌱 I’m currently learning [ECMAScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/es) and [Express](https://www.express.com/)
@@ -44,5 +44,3 @@ const Me = {
 
 ```
 [![GitHub MrOlivo followers](https://img.shields.io/github/followers/MrOlivo?label=followers&style=for-the-badge&logo=github)](https://github.com/MrOlivo)
-
-⭐️ Original idea by [@Thaiane](https://github.com/Thaiane)
