@@ -2,9 +2,9 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="2em"/>][dribble]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="2em"/>][github]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="2em"/>][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="24px"/>][instagram]
 
 [dribble]: https://dribbble.com/Lenneth
 [github]: https://github.com/MrOlivo
