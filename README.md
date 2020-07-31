@@ -2,7 +2,9 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-<img src="https://github.com/MrOlivo/MrOlivo/blob/master/dribble.svg" alt="Dribble" width="22"/>
+Del[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble" width="22px"/>][Dribble]
+
+[Dribble]: https://dribbble.com/Lenneth
 
 **MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
