@@ -2,7 +2,7 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-![Dribble](./dribble.svg)
+<img src="https://github.com/MrOlivo/MrOlivo/blob/master/dribble.svg" alt="Dribble" width="22"/>
 
 **MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
