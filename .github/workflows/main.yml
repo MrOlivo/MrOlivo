@@ -1,6 +1,6 @@
 name: Readme Stats
 # This workflow is triggered on pushes to the repository.
-on: [push]
+on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
