@@ -32,6 +32,7 @@ const Me = {
         'Javascript',
         'HTML',
         'CSS',
+        'Python',
         'C++',
         'PSeInt',
     ],
