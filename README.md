@@ -2,15 +2,13 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-<a href="https://dribbble.com/Lenneth" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>
-</a>
-<a href="https://github.com/MrOlivo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>
-</a>
-<a href="https://instagram.com/xconnect_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="24px"/>
-</a>
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="24px"/>][instagram]
+
+[dribble]: https://dribbble.com/Lenneth
+[github]: https://github.com/MrOlivo
+[instagram]: https://instagram.com/xconnect_
 
 **MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +32,6 @@ const Me = {
         'Javascript',
         'HTML',
         'CSS',
-        'Python',
         'C++',
         'PSeInt',
     ],
