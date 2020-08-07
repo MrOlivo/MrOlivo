@@ -10,8 +10,6 @@
 [github]: https://github.com/MrOlivo
 [instagram]: https://instagram.com/xconnect_
 
-**MrOlivo/MrOlivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Quick overview:
 
 - 🔭 I’m currently working on a Node.js & Express.js based Web site
