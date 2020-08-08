@@ -1,4 +1,6 @@
-![Imagen](https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-min.png)
+<p align="center">
+  <img src="https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-min.png" alt="Picture of a girl"/>
+</p>
 
 <h1 align="center">Whats up vicietas? MrOlivo 👋 here.</h1>
 
