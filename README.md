@@ -1,24 +1,37 @@
-![Imagen](https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-crop-min.jpg)
+![Imagen](https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-min.jpg)
 
-### Whats up vicietas?, MrOlivo here👋
+<h1 align="center">Whats up vicietas? MrOlivo 👋 here.</h1>
 
  **Thinking about the area I'd like to work in professionally.** A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty.
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="24px"/>][instagram]
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node js" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 
-[dribble]: https://dribbble.com/Lenneth
-[github]: https://github.com/MrOlivo
-[instagram]: https://instagram.com/xconnect_
-
-Quick overview:
+### Quick overview:
 
 - 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning [Python](https://www.python.org) 🐍.
+- 🌱 I’m currently learning [Python](https://es.wikipedia.org/wiki/Python), [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)) and [JavaScript](https://es.wikipedia.org/wiki/JavaScript).
 - 🤔 I’m looking for help with everything :p (specifically, learn English 🇺🇸)
 - 💬 Ask me about my *Unicorn* and my *girlfriend*. A clue, **none** of them really exist.
 - 📫 How to reach me: *following the yellow brick road...*
+
+### Social media links
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble icon" width="24px"/>][dribble]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub icon" width="24px"/>][github]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram icon" width="24px"/>][instagram]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pixiv.svg" alt="pixiv icon" width="24px"/>][pixiv]
+
+[dribble]: https://dribbble.com/####
+[github]: https://github.com/###
+[instagram]: https://instagram.com/####
+[pixiv]: https://pixiv.net/en/users/####
 
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
