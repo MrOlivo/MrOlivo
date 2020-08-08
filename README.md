@@ -2,6 +2,8 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
+A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty.
+
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram profile" width="24px"/>][instagram]
@@ -14,7 +16,7 @@ Quick overview:
 
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning [Python](https://www.python.org) 🐍.
-- 🤔 I’m looking for help with everything :p
+- 🤔 I’m looking for help with everything :p (specifically, learn English 🇺🇸)
 - 💬 Ask me about my *Unicorn* and my *girlfriend*. A clue, **none** of them really exist.
 - 📫 How to reach me: *following the yellow brick road...*
 
