@@ -2,7 +2,7 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty. **Thinking about the area I'd like to work in professionally.**
+ **Thinking about the area I'd like to work in professionally.** A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty.
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
