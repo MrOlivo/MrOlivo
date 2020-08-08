@@ -12,18 +12,16 @@
 
 Quick overview:
 
-- 🔭 I’m currently working on a Node.js & Express.js based Web site
-- 🌱 I’m currently learning [ECMAScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/es) and [Express](https://www.express.com/)
-- 🤔 I’m looking for help with everything :P
-- 💬 Ask me about my Unicorn and my girlfriend. Yes, None of them really exist.
-- 📫 How to reach me: following the yellow brick road...
-
-<hr>
+- 🔭 I’m currently working on **nothing**
+- 🌱 I’m currently learning [Python](https://www.python.org) 🐍.
+- 🤔 I’m looking for help with everything :p
+- 💬 Ask me about my *Unicorn* and my *girlfriend*. A clue, **none** of them really exist.
+- 📫 How to reach me: *following the yellow brick road...*
 
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
-const Me = {
+const mrOlivo = {
     programmingLanguages: [
         'C#',
         'Java',
@@ -47,7 +45,7 @@ const Me = {
         design: ['Adobe Photoshop', 'Adobe XD', 'Figma'],
     },
     challenge:
-        "I'm learning to create web applications with 'Node' and 'Express",
+        "Thinking about the area I'd like to work in professionally.",
 }
 
 ```
