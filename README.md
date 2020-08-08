@@ -2,7 +2,7 @@
 
 ### Whats up vicietas?, MrOlivo here👋
 
-A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty.
+A future web developer?, data scientist?, Internet of Things? I don't know, follow me to find my specialty. **Thinking about the area I'd like to work in professionally.**
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble profile" width="24px"/>][dribble]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub profile" width="24px"/>][github]
@@ -22,33 +22,51 @@ Quick overview:
 
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-```javascript
-const mrOlivo = {
-    programmingLanguages: [
-        'C#',
-        'Java',
-        'Javascript',
-        'HTML',
-        'CSS',
-        'Python',
-        'C++',
-        'PSeInt',
-    ],
-    frameworks: {
-        css: ['Bootstrap 4'],
-    },
-    tools: {
-        development: [
-            'VS Code',
-            'Postman',
-            'MySQLWorkbench',
-            'MongoDB Compass',
-        ],
-        design: ['Adobe Photoshop', 'Adobe XD', 'Figma'],
-    },
-    challenge:
-        "Thinking about the area I'd like to work in professionally.",
-}
+```python
+
+class MrOlivo():
+    
+    def __init__(self):
+        self.username = 'MrOlivo'
+        self.name = 'Edwin Olivo'
+        self.web = '.dev'
+        self.socialMedia = {
+            'dribble': 'Lenneth Olivo',
+            'instagram': 'xconnect_',
+            'behance': ''
+        }
+        self.code = {
+            'programmingLanguages': [
+                'C#',
+                'Java',
+                'Javascript',
+                'Python',
+                'C++',
+                'PSeInt',
+            ],
+            'markupLanguages': [
+                'HTML',
+                'CSS',
+                'Markdown'
+            ],
+            'backend': ['Express js'],
+            'database': ['MySQL', 'SQLServer', 'MongoDB'],
+            'tools': {
+                'development': [
+                    'VS Code',
+                    'Postman',
+                    'MySQLWorkbench',
+                    'MongoDB Compass',
+                ],
+                'design': ['Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD']
+            }
+        }
+        
+    def __str__(self):
+        return self.name
+        
+if __name__ == "__main__":
+    me = MrOlivo()
 
 ```
 [![GitHub MrOlivo followers](https://img.shields.io/github/followers/MrOlivo?label=followers&style=for-the-badge&logo=github)](https://github.com/MrOlivo)
