@@ -4,8 +4,8 @@
 
 <h1 align="center">Whats up vicietas? MrOlivo 👋 here.</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/mx.svg" alt="flag of mexico" height="40"/>
-<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/us.svg" alt="flag of USA" height="40"/>
+<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/mx.svg" alt="flag of Mexico" height="40"/>
+<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/nz.svg" alt="flag of New Zealand" height="40"/>
 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/kr.svg" alt="flag of Korea" height="40"/>
 </p>
 
