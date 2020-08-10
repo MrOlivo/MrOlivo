@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning [Python](https://es.wikipedia.org/wiki/Python), [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)) and [JavaScript](https://es.wikipedia.org/wiki/JavaScript).
 - 🤔 I’m looking for help with everything :p (specifically, learn English 🇺🇸)
 - 💬 Ask me about my *Unicorn* and my *girlfriend*. A clue, **none** of them really exist.
-- 📫 How to reach me: *following the yellow brick road...*
+- 📫 How to reach me: ***following the yellow brick road...***
 
 ### Social media links
 
