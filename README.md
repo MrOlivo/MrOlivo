@@ -105,13 +105,13 @@ if __name__ == "__main__":
 [![GitHub MrOlivo followers](https://img.shields.io/github/followers/MrOlivo?label=followers&style=for-the-badge&logo=github)](https://github.com/MrOlivo)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 867 Contributions in the year 2020
  > 
-> 📦 185.9 kB Used in Github's Storage 
+> 📦 186.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
