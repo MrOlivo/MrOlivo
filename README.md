@@ -105,7 +105,7 @@ if __name__ == "__main__":
 [![GitHub MrOlivo followers](https://img.shields.io/github/followers/MrOlivo?label=followers&style=for-the-badge&logo=github)](https://github.com/MrOlivo)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My Github Data** 
 
