@@ -36,22 +36,11 @@
 ### Quick overview:
 
 - 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning [Python](https://es.wikipedia.org/wiki/Python), [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)) and [JavaScript](https://es.wikipedia.org/wiki/JavaScript).
-- 🤔 I’m looking for help with everything :p (specifically, learn English 🇺🇸)
+- 🌱 I’m currently learning [R](https://www.r-project.org/), [PHP](https://www.php.net/) and [SOLID](https://es.wikipedia.org/wiki/SOLID).
+- 🤔 Maybe someday I will learn English and Korean.
 - 💬 Ask me about my *Unicorn* and my *girlfriend*. A clue, **none** of them really exist.
 - 📫 How to reach me: ***following the yellow brick road...***
 
-### Social media links
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" alt="Dribble icon" width="24px"/>][dribble]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub icon" width="24px"/>][github]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram icon" width="24px"/>][instagram]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pixiv.svg" alt="pixiv icon" width="24px"/>][pixiv]
-
-[dribble]: https://dribbble.com/####
-[github]: https://github.com/###
-[instagram]: https://instagram.com/####
-[pixiv]: https://pixiv.net/en/users/####
 
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -62,7 +51,7 @@ class MrOlivo():
     def __init__(self):
         self.username = 'MrOlivo'
         self.name = 'Edwin Olivo'
-        self.web = '.dev'
+        self.web = 'olivo.dev'
         self.socialMedia = {
             'dribble': 'Lenneth Olivo',
             'instagram': 'xconnect_',
@@ -70,9 +59,11 @@ class MrOlivo():
         }
         self.code = {
             'programmingLanguages': [
-                'C#',
                 'Java',
                 'Javascript',
+                'PHP',
+                'R',
+                'C#',
                 'Python',
                 'C++',
                 'PSeInt',
@@ -82,8 +73,8 @@ class MrOlivo():
                 'CSS',
                 'Markdown'
             ],
-            'backend': ['Express js'],
-            'database': ['MySQL', 'SQLServer', 'MongoDB'],
+            'backend': ['Express.js', 'PHP'],
+            'database': ['MySQL', 'SQLServer', 'MongoDB', 'SQLite'],
             'tools': {
                 'development': [
                     'VS Code',
@@ -91,7 +82,11 @@ class MrOlivo():
                     'MySQLWorkbench',
                     'MongoDB Compass',
                 ],
-                'design': ['Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD']
+                'design': [
+                    'Adobe Photoshop',
+                    'Adobe Illustrator',
+                    'Adobe XD'
+                ]
             }
         }
         
