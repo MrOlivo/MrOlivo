@@ -54,7 +54,6 @@ class MrOlivo():
         self.socialMedia = {
             'dribble': 'Lenneth Olivo',
             'instagram': 'xconnect_',
-            'behance': ''
         }
         self.code = {
             'programmingLanguages': [
@@ -65,7 +64,7 @@ class MrOlivo():
                 'Python',
                 'C#',
                 'C++',
-                'Ruby,
+                'Ruby',
                 'PSeInt',
             ],
             'markupLanguages': [
