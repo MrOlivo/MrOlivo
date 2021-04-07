@@ -5,7 +5,6 @@
 <h1 align="center">Whats up vicietas? MrOlivo 👋 here.</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/mx.svg" alt="Bandera de México" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Bandera_cruz_de_Borgo%C3%B1a_1.svg" alt="Cruz de Borgoña" height="40"/>
 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/nz.svg" alt="Bandera de Aotearoa Nueva Zelanda" height="40"/>
 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/kr.svg" alt="Bandera de Corea del Sur" height="40"/>
 </p>
@@ -15,7 +14,7 @@
  **Thinking about the area I'd like to work in professionally.** A future Web Developer?, Data Scientist?, Internet of Things? I don't know, follow me to find my specialty.
 
 <p>
-<img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/html5.svg" alt="logo de html5" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/css3.svg" alt="css3" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/>
