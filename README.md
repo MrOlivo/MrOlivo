@@ -28,7 +28,7 @@
 ### Quick overview:
 
 - 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning [PHP](https://www.php.net/), [Laravel](https://laravel.com), [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898), [Design Patterns](https://refactoring.guru/es/design-patterns) and [Tailwind CSS](https://tailwindcss.com).
+- 🌱 I’m currently learning [Laravel](https://laravel.com), [Angular](https://angular.io/), [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898), [Design Patterns](https://refactoring.guru/es/design-patterns) and [Ionic](https://ionicframework.com/).
 - 🤔 Maybe someday I will learn English and/or Korean.
 - 💬 Ask me about my *Unicorn* and my *Gaming Laptop*. A clue, **none** of them really exist.
 - 📫 How to reach me: ***following the yellow brick road...***
