@@ -7,7 +7,7 @@
 ### Quick overview:
 
 - 🔭 I’m currently working on **nothing**
-- 🌱 I’m currently learning [Laravel](https://laravel.com), [Angular](https://angular.io/), [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898), [Design Patterns](https://refactoring.guru/es/design-patterns) and [Ionic](https://ionicframework.com/).
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Design Patterns](https://refactoring.guru/es/design-patterns), [SOLID Principles](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) and [Research Methodology](https://research-methodology.net/research-methodology/)
 - 🤔 Maybe someday I will learn English and/or Korean.
-- 💬 Ask me about my *Unicorn* and my *Gaming Laptop*. A clue, **none** of them really exist.
+- 💬 Ask me about my *Unicorn*, my *Girlfriend* or my *Gaming PC*. A clue, **none** of them really exist.
 - 📫 How to reach me: ***following the yellow brick road...***
