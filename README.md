@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **following the yellow brick road...**
 
-- 📄 Know about my experiences [http://olivo.dev/resume](https://mrolivo.github.io/resume)
+- 📄 Know about my job experiences [Resume](https://mrolivo.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
