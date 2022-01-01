@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **my English learning**
 
-- 👨‍💻 All of my projects are available at [http://olivo.dev](http://olivo.dev)
+- 👨‍💻 All of my projects are available at [My Website](https://mrolivo.github.io/)
 
 - 📫 How to reach me **following the yellow brick road...**
 
-- 📄 Know about my experiences [http://olivo.dev/resume](http://olivo.dev/resume)
+- 📄 Know about my experiences [http://olivo.dev/resume](https://mrolivo.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
