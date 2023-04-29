@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MrOlivo/MrOlivo/blob/master/wKRBQKa-min.jpg" alt="Picture of a black hait girl with a pink background"/>
+  <img src="/wall.webp" alt="Picture of a black hait girl with a pink background"/>
 </p>
 
 <h1 align="center">Whats up vicietas? Edwin Olivo 👋 here.</h1>
