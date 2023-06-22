@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **React and Amazon Web Services**
+- 🌱 I’m currently learning **Astro.js and Microsoft Azure**
 
-- 🤝 I’m looking for help with **my English learning**
+- 🤝 I’m looking for help with **my English learning**. I've been studying for a long time, but I'm still afraid of talking or writing.
 
-- 👨‍💻 All of my projects are available at [My Website](https://mrolivo.github.io/)
+- 👨‍💻 All of my projects are available at [My Website](https://mrolivo.github.io/#projects)
 
 - 📫 How to reach me **following the yellow brick road...**
 
