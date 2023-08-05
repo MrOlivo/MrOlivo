@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/wall.webp" alt="Picture of a black hait girl with a pink background"/>
+  <img src="20230804212329.webp" alt="Picture of a black hait girl with a white background"/>
 </p>
 
 <h1 align="center">Whats up vicietas? Edwin Olivo 👋 here.</h1>
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **my English learning**. I've been studying for a long time, but I'm still afraid of talking or writing.
 
-- 👨‍💻 All of my projects are available at [My Website](https://mrolivo.github.io/#projects)
+- 👨‍💻 All of my projects are available at [my website](https://mrolivo.github.io/#projects)
 
 - 📫 How to reach me **following the yellow brick road...**
 
