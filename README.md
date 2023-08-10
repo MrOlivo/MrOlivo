@@ -48,10 +48,18 @@ Other Productivity Tools:
 
 > What do I use?
 
-- Computer: [Macbook Pro Mid 2012 13"](https://support.apple.com/kb/sp649?locale=en_US)
+ - Laptop: [Macbook Pro Mid 2012 13"](https://support.apple.com/kb/sp649?locale=en_US)
+ - Desktop:
+   - AMD Ryzen 3 2200G
+   - Kingston FURY Beast DDR4 3200MHz 1x8GB 8GB
+   - Gigabyte AB350m-DS3H
+   - Kingston A400 SATA 120GB
+   - Western Digital Blue SATA 1TB
+   - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
 - Mouse: `WIP`
 - Stand: `WIP`
+- Earbuds: [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
 
 ## 📈 Stats
 > How much do I do what I do?
