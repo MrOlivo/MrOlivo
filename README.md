@@ -2,12 +2,12 @@
   <img src="20230804212329.webp" alt="Picture of a black hait girl with a white background"/>
 </p>
 
-# 👋 Hi, I'm Edwin Olivo.
+## 👋 Hi, I'm Edwin Olivo.
 A designer and developer. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
 > Check out my newest project. An extension for Raycast. Download it now!
 > 
-> <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.0" height="64" style="height: 64px;" alt=""></a>
+> <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt=""></a>
 
 ## ✨ Skills
 
@@ -15,14 +15,19 @@ A designer and developer. I love new technologies, and I am constantly looking f
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,astro,pug,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,astro,pug,laravel,java)](https://skillicons.dev)
+
 - Web development
   - React/JSX
   - TypeScript
-  - Astro
-  - Laravel
+  - [Astro](https://astro.build/)
+  - [Pug](https://pugjs.org/api/getting-started.html)
+  - [Laravel](https://laravel.com/)
+- Desktop
+  - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html)
+  - [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFXST784)
 
-### Fluent Languages
+### Fluent [Programming] Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,php)](https://skillicons.dev)
 
@@ -33,11 +38,12 @@ A designer and developer. I love new technologies, and I am constantly looking f
 ## 👾 Software
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
 
-- IDE: [Visual Studio Code](https://code.visualstudio.com/)
+- Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Terminal: [iTerm2](https://iterm2.com/) and [Oh My Posh](https://ohmyposh.dev/) 
 - Design Software: [Figma](https://figma.com)
-- Browser: [Brave](https://brave.com/) and [Firefox](https://www.mozilla.org/)
+- Browser: [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
 Other Productivity Tools:
 
@@ -48,14 +54,14 @@ Other Productivity Tools:
 
 > What do I use?
 
- - Laptop: [Macbook Pro Mid 2012 13"](https://support.apple.com/kb/sp649?locale=en_US)
+ - Laptop: [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
  - Desktop:
-   - AMD Ryzen 3 2200G
-   - Kingston FURY Beast DDR4 3200MHz 1x8GB 8GB
-   - Gigabyte AB350m-DS3H
-   - Kingston A400 SATA 120GB
-   - Western Digital Blue SATA 1TB
-   - EVGA 550 N1 550W
+    - AMD Ryzen 3 2200G
+    - Kingston FURY Beast DDR4 3200MHz 1x8GB 8GB
+    - Gigabyte AB350m-DS3H
+    - Kingston A400 SATA 120GB
+    - Western Digital Blue SATA 1TB
+    - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
 - Mouse: `WIP`
 - Stand: `WIP`
