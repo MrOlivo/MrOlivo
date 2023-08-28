@@ -15,7 +15,7 @@ A designer and developer. I love new technologies, and I am constantly looking f
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,astro,pug,laravel,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,astro,pug,laravel,java)](https://skillicons.dev)
 
 - Web development
   - React/JSX
