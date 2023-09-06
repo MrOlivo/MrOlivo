@@ -5,6 +5,8 @@
 ## 👋 Hi, I'm Edwin Olivo.
 A designer and developer. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
+> Now I have a profile in [Bento.me](https://bento.me/xconnect)
+
 > Check out my newest project. An extension for Raycast. Download it now!
 > 
 > <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt=""></a>
