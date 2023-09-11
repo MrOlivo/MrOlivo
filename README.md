@@ -17,17 +17,19 @@ A designer and developer. I love new technologies, and I am constantly looking f
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,astro,pug,laravel,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,pug,laravel,java,git)](https://skillicons.dev)
 
 - Web development
   - React/JSX
   - TypeScript
-  - [Astro](https://astro.build/)
   - [Pug](https://pugjs.org/api/getting-started.html)
   - [Laravel](https://laravel.com/)
+  - [Bootstrap](https://getbootstrap.com/)
 - Desktop
   - [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/start/index.html)
   - [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm#JFXST784)
+- Version Control Systems
+  - Git & GitHub
 
 ### Fluent [Programming] Languages
 
@@ -40,12 +42,13 @@ A designer and developer. I love new technologies, and I am constantly looking f
 ## 👾 Software
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,discord)](https://skillicons.dev)
 
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Terminal: [iTerm2](https://iterm2.com/) and [Oh My Posh](https://ohmyposh.dev/) 
+- Terminal: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) 
 - Design Software: [Figma](https://figma.com)
 - Browser: [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- Communication: [Discord](https://discord.com/)
 
 Other Productivity Tools:
 
@@ -59,7 +62,7 @@ Other Productivity Tools:
  - Laptop: [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
  - Desktop:
     - AMD Ryzen 3 2200G
-    - Kingston FURY Beast DDR4 3200MHz 1x8GB 8GB
+    - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
     - Gigabyte AB350m-DS3H
     - Kingston A400 SATA 120GB
     - Western Digital Blue SATA 1TB
