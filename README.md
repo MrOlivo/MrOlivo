@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="20230804212329.webp" alt="Picture of a black hait girl with a white background"/>
+  <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
 </p>
 
 ## 👋 Hi, I'm Edwin Olivo.
@@ -17,7 +17,7 @@ A designer and developer. I love new technologies, and I am constantly looking f
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,pug,laravel,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,pug,laravel,java,git,github)](https://skillicons.dev)
 
 - Web development
   - React/JSX
