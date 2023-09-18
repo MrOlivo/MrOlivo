@@ -2,13 +2,14 @@
   <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
 </p>
 
-## 👋 Hi, I'm Edwin Olivo.
-A designer and developer. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
+## 👋 Good evening, ladies and gentlemen. Let me introduce myself. I'm Edwin Olivo.
+
+A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
 > Now I have a profile in [Bento.me](https://bento.me/xconnect)
 
 > Check out my newest project. An extension for Raycast. Download it now!
-> 
+>
 > <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt=""></a>
 
 ## ✨ Skills
@@ -45,9 +46,9 @@ A designer and developer. I love new technologies, and I am constantly looking f
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,discord)](https://skillicons.dev)
 
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Terminal: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) 
+- Terminal: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) & [Alacritty](http://alacritty.org/)
 - Design Software: [Figma](https://figma.com)
-- Browser: [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- Browser: [Brave](https://brave.com/), [Safari](https://www.apple.com/safari/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - Communication: [Discord](https://discord.com/)
 
 Other Productivity Tools:
