@@ -53,8 +53,8 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 Other Productivity Tools:
 
-- Spotlight Search Alternative: [Raycast](https://www.raycast.com/)
-- Spotify: [Spotify](https://open.spotify.com/)
+- [Raycast](https://www.raycast.com/): Spotlight search alternative.
+- [spotify_player](https://github.com/aome510/spotify-player): fast, easy to use, and configurable terminal music player
 
 ## 💻 Hardware
 
