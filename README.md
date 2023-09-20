@@ -2,7 +2,7 @@
   <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
 </p>
 
-## 👋 Good evening, ladies and gentlemen. Let me introduce myself. I'm Edwin Olivo.
+## 👋 Good evening, ladies and gentlemen. Let me introduce myself. I'm Edwin Olivo, a magic man.
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
