@@ -60,17 +60,18 @@ Other Productivity Tools:
 
 > What do I use?
 
- - Laptop: [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
+ - Laptop:
+    - [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
  - Desktop:
-    - AMD Ryzen 3 2200G
+    - AMD Ryzen 3 2200G (4 Cores / 4 Threads)
     - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
     - Gigabyte AB350m-DS3H
+    - [AsRock RX570 4GB](https://pg.asrock.com/Graphics-Card/AMD/Phantom%20Gaming%20D%20Radeon%20RX570%204G/)
     - Kingston A400 SATA 120GB
     - Western Digital Blue SATA 1TB
     - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
-- Mouse: `WIP`
-- Stand: `WIP`
+- Mouse: [Razer Viper Mini](https://www.razer.com/gaming-mice/razer-viper-mini)
 - Earbuds: [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
 
 ## 📈 Stats
