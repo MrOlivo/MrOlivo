@@ -6,9 +6,14 @@
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
-![GitHub followers](https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&logo=github&logoColor=D9E0EE&labelColor=302D41&color=C9CBFF)
-
-> Now I have a profile in [Bento.me](https://bento.me/xconnect)
+<p>
+  <a href="https://bento.me/xconnect)">
+    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=Bento&message=xconnect&labelColor=1e1e2e&color=f2cdcd" alt="Link to bento"/>
+  </a>
+  <a href="https://github.com/MrOlivo?tab=followers">
+    <img src="https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&logo=github&logoColor=D9E0EE&labelColor=1e1e2e&color=cba6f7" alt="Github followers"/>
+  </a>
+</p>
 
 > Check out my newest project. An extension for Raycast. Download it now!
 >
