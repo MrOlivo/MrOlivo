@@ -2,9 +2,11 @@
   <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
 </p>
 
-## 👋 Good evening, ladies and gentlemen. Let me introduce myself. I'm Edwin Olivo, a magic man.
+## 👋 Good evening ladies and gentlemen. Tonight is a very special evening. We invite you all into the realm of *magic*.
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
+
+![GitHub followers](https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&logo=github&logoColor=D9E0EE&labelColor=302D41&color=C9CBFF)
 
 > Now I have a profile in [Bento.me](https://bento.me/xconnect)
 
