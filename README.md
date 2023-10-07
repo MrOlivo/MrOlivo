@@ -2,7 +2,7 @@
   <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
 </p>
 
-## 👋 Good evening ladies and gentlemen. Tonight is a very special evening. We invite you all into the realm of *magic*.
+## 👋 Good evening ladies and gentlemen.
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
