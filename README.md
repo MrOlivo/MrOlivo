@@ -41,11 +41,12 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 ### Fluent [Programming] Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cs,php,java)](https://skillicons.dev)
 
 - Javascript/JSX
 - C# (C Sharp)
 - PHP
+- Java
 
 ## 👾 Software
 > What's on my computer?
