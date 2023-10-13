@@ -17,7 +17,7 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 > Check out my newest project. An extension for Raycast. Download it now!
 >
-> <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt=""></a>
+> <a title="Install manga-calendar Raycast Extension" href="https://www.raycast.com/mrolivo/manga-calendar"><img src="https://www.raycast.com/mrolivo/manga-calendar/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 
 ## ✨ Skills
 
