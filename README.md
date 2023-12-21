@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1317447.webp" alt="Picture of a black hair girl with a skyline background"/>
+  <img src="octopus_cat.jpeg" alt="Cute 3D drawing of an hybrid of cat and an octopus."/>
 </p>
 
 ## 👋 Good evening ladies and gentlemen.
