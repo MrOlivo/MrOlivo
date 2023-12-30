@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="octopus_cat.jpeg" alt="Cute 3D drawing of an hybrid of cat and an octopus."/>
-</p>
-
 ## 👋 Good evening ladies and gentlemen.
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
