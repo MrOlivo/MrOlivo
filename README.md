@@ -75,7 +75,7 @@ Other Productivity Tools:
     - Western Digital Blue SATA 1TB
     - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
-- Mouse: [Razer Viper Mini](https://www.razer.com/gaming-mice/razer-viper-mini)
+- Mouse: Generic Mouse
 - Earbuds: [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
 
 ## 📈 Stats
