@@ -81,7 +81,11 @@ Other Productivity Tools:
 ## 📈 Stats
 > How much do I do what I do?
 
-![MyStats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrOlivo)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrolivo&show_icons=true&locale=en&layout=compact)
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrolivo&theme=default"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrolivo&show_icons=true&locale=en&layout=compact"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrolivo"></td>
+  </tr>
+</table>
 
