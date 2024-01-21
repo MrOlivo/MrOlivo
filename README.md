@@ -50,7 +50,9 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,discord)](https://skillicons.dev)
 
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
-- Terminal: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) & [Alacritty](http://alacritty.org/)
+- Terminal:
+    - MacOs: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) & [Kitty](https://sw.kovidgoyal.net/kitty/)
+    - Windows: [Windows Terminal](https://github.com/microsoft/terminal?tab=readme-ov-file)
 - Design Software: [Figma](https://figma.com)
 - Browser: [Brave](https://brave.com/), [Safari](https://www.apple.com/safari/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - Communication: [Discord](https://discord.com/)
