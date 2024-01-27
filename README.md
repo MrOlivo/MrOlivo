@@ -1,6 +1,6 @@
-## Good evening ladies and gentlemen.
+## 👋 Good evening ladies and gentlemen.
 
-Tonight is a very special evening. We invite you all into the realm of magic. But especially we call you - the men - to enter first. **Arise!**
+A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
 <p>
   <a href="https://bento.me/xconnect" target="_blank" rel="noopener noreferrer">
