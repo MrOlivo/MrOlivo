@@ -51,16 +51,17 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 - Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - Terminal:
-    - MacOs: [iTerm2](https://iterm2.com/) + [Oh My Posh](https://ohmyposh.dev/) & [Kitty](https://sw.kovidgoyal.net/kitty/)
+    - MacOs: [ [Kitty](https://sw.kovidgoyal.net/kitty/) OR [iTerm2](https://iterm2.com/) ] + [Oh My Posh](https://ohmyposh.dev/)
     - Windows: [Windows Terminal](https://github.com/microsoft/terminal?tab=readme-ov-file)
 - Design Software: [Figma](https://figma.com)
-- Browser: [Brave](https://brave.com/), [Safari](https://www.apple.com/safari/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- Browser: [FIrefox](https://www.mozilla.org/), [Safari](https://www.apple.com/safari/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - Communication: [Discord](https://discord.com/)
 
 Other Productivity Tools:
 
 - [Raycast](https://www.raycast.com/): Spotlight search alternative.
-- [spotify_player](https://github.com/aome510/spotify-player): fast, easy to use, and configurable terminal music player
+- [Spotify](https://www.spotify.com/): music player.
+- [spotify_player](https://github.com/aome510/spotify-player): fast, easy to use, and configurable terminal music player.
 
 ## 💻 Hardware
 
