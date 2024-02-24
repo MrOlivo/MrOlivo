@@ -2,14 +2,11 @@
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
-<p>
-  <a href="https://bento.me/xconnect" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=Bento&message=xconnect&labelColor=1e1e2e&color=f2cdcd" alt="Link to bento"/>
-  </a>
-  <a href="https://github.com/MrOlivo?tab=followers" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&logo=github&logoColor=D9E0EE&labelColor=1e1e2e&color=cba6f7" alt="Github followers"/>
-  </a>
-</p>
+[![Link to Bento.com](https://img.shields.io/static/v1.svg?style=for-the-badge&label=Bento&message=xconnect&labelColor=1e1e2e&color=f2cdcd)](https://bento.me/xconnect)
+[![Link to my personal website](https://img.shields.io/static/v1.svg?style=for-the-badge&label=web&message=mrolivo.github.io&labelColor=1e1e2e&color=a6da95)](https://mrolivo.github.io/)
+[![Total of followers on GitHub](https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&labelColor=1e1e2e&color=b7bdf8)](https://github.com/MrOlivo?tab=followers)
+
+<!-- [![Deploy to GitHub Pages](IMG)](LINK) -->
 
 **Check out my newest project. An extension for Raycast. Download it now!**
 
