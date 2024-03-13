@@ -23,6 +23,7 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 - Web development
   - React/JSX
   - TypeScript
+  - [Astro](https://astro.build/)
   - [Pug](https://pugjs.org/api/getting-started.html)
   - [Laravel](https://laravel.com/)
   - [Bootstrap](https://getbootstrap.com/)
@@ -36,7 +37,7 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 [![My Skills](https://skillicons.dev/icons?i=js,cs,php,java)](https://skillicons.dev)
 
-- Javascript/JSX
+- Javascript/JSX/TypeScript
 - C# (C Sharp)
 - PHP
 - Java
