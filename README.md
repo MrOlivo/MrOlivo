@@ -72,7 +72,7 @@ Other Productivity Tools:
     - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
     - Gigabyte AB350m-DS3H
     - [AsRock RX570 4GB](https://pg.asrock.com/Graphics-Card/AMD/Phantom%20Gaming%20D%20Radeon%20RX570%204G/)
-    - Kingston A400 SATA 120GB
+    - Crucial MX500 500GB
     - Western Digital Blue SATA 1TB
     - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
