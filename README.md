@@ -61,6 +61,8 @@ Other Productivity Tools:
 
  - Laptop:
     - [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
+    - Kingston A400 120GB
+    - KEMBONA DDR3L 8GB 1x8GB
  - Desktop:
     - AMD Ryzen 3 2200G (4 Cores / 4 Threads)
     - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
