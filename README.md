@@ -12,7 +12,7 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ts,pug,laravel,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github)](https://skillicons.dev)
 
 - Web development
   - React/JSX
@@ -29,7 +29,7 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 ### Fluent [Programming] Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,php,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
 
 - Javascript/JSX/TypeScript
 - C# (C Sharp)
@@ -46,12 +46,12 @@ A software developer and well-known bookworm. I love new technologies, and I am 
     - MacOs: [ [Kitty](https://sw.kovidgoyal.net/kitty/) OR [iTerm2](https://iterm2.com/) ] + [Oh My Posh](https://ohmyposh.dev/)
     - Windows: [Windows Terminal](https://github.com/microsoft/terminal?tab=readme-ov-file)
 - Design Software: [Figma](https://figma.com)
-- Browser: [FIrefox](https://www.mozilla.org/), [Safari](https://www.apple.com/safari/) and [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge), [Safari](https://www.apple.com/safari/), and [FIrefox](https://www.mozilla.org/)
 - Communication: [Discord](https://discord.com/)
 
 Other Productivity Tools:
 
-- [Raycast](https://www.raycast.com/): Spotlight search alternative.
+- [Raycast](https://www.raycast.com/): spotlight search alternative.
 - [Spotify](https://www.spotify.com/): music player.
 - [spotify_player](https://github.com/aome510/spotify-player): fast, easy to use, and configurable terminal music player.
 
@@ -60,9 +60,7 @@ Other Productivity Tools:
 > What do I use?
 
  - Laptop:
-    - [Macbook Pro 13" Mid 2012](https://support.apple.com/kb/sp649?locale=en_US)
-    - Kingston A400 120GB
-    - KEMBONA DDR3L 8GB 1x8GB
+    - [MacBook Air 13" (M1, 2020)](https://support.apple.com/en-us/111883)
  - Desktop:
     - AMD Ryzen 3 2200G (4 Cores / 4 Threads)
     - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
@@ -73,7 +71,9 @@ Other Productivity Tools:
     - EVGA 550 N1 550W
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
 - Mouse: Generic Mouse
-- Earbuds: [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
+- Earbuds:
+  - [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
+  - [TRN BT20](https://trn-audio.com/trn-bt20.html)
 
 ## 📈 Stats
 > How much do I do what I do?
